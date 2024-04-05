@@ -24,7 +24,7 @@
 
 - 😄 Pronouns: She/Her
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FwbK8wx3Ah8J-UyG8RRYVoywgB6t8jF9/view?usp=sharing"> <button>Click me</button></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12zHVAVPL1Pd6w4Az-yUeuBRxTo8gI2CA/view"> <button>Click me</button></a>
 
 - ⚡ Fun fact **I enjoy attending Meetups to expand my knowledge and Conferences to broaden my professional network.**
 
