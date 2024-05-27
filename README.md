@@ -26,6 +26,8 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/12zHVAVPL1Pd6w4Az-yUeuBRxTo8gI2CA/view"> <button>Click me</button></a>
 
+- To access Medium blog : [Click me](https://medium.com/@sushi0144)
+
 - ⚡ Fun fact **I enjoy attending Meetups to expand my knowledge and Conferences to broaden my professional network.**
 
 
