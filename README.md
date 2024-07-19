@@ -44,8 +44,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -56,20 +54,18 @@
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -80,8 +76,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
@@ -104,8 +98,6 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
@@ -116,20 +108,18 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -140,8 +130,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -164,8 +152,6 @@
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
@@ -176,71 +162,53 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+      <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
-      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
-      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="tableau" width="40" height="40"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> 
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="excel" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
+      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="powerbi" width="40" height="40"/>
       </a>
     </td>
+    <td colspan="3"></td> <!-- Empty cells to maintain alignment -->
   </tr>
 </table>
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
