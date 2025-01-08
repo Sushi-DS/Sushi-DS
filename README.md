@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Deep learning Projects**
 
-- 🌱 I’m currently learning **Generative AI & Deep Learning**
+- 🌱 I’m currently learning **Generative AI & Data Engineering**
 
 - 👯 I’m looking to collaborate on **AI & ML projects and research paper**
 
 - 👨‍💻My Portfolio  [![Linkedin Badge](https://img.shields.io/badge/-Sushreeta-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://www.iamsushreeta.com/)](https://iamsushreeta.com/)
 
-- 💬 Ask me about **AI & ML**
+- 💬 Ask me about **big data & ML**
 
 - 📫 How to reach me :  <a href="https://www.linkedin.com/in/sushreeta-b-864454190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/51647212/155699102-fbe0a233-dbb5-48eb-894a-d689213a8a0a.svg" alt="Sushi-DS" height="25" width="25" /></a>&nbsp; <a href="mailto:sushi0144@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/51647212/155698854-7cfb0054-bc4a-4a51-ad12-4e5fee775f5a.svg" alt="Sushi-DS" height="25" width="25" /></a>
 
@@ -42,11 +42,6 @@
     <td align="center">
       <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
@@ -81,11 +76,6 @@
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
       </a>
     </td>
-    <td align="center">
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-      </a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -96,11 +86,6 @@
     <td align="center">
       <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
       </a>
     </td>
     <td align="center">
@@ -121,16 +106,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
       </a>
@@ -142,11 +117,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-      </a>
-    </td>
     <td align="center">
       <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -169,11 +139,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-      </a>
-    </td>
     <td align="center">
       <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
