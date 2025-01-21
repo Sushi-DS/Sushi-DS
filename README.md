@@ -58,11 +58,6 @@
   <tr>
     </td>
     <td align="center">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-      </a>
-    </td>
-    <td align="center">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
       </a>
@@ -150,25 +145,6 @@
         <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="powerbi" width="40" height="40"/>
       </a>
     </td>
-       <td align="center">
-      <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Databricks_Logo.png" alt="databricks" width="40" height="40"/>
-        <br>Databricks
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer">
-        <img src="https://media.licdn.com/dms/image/D4D12AQF_GbYxLSXBKQ/article-cover_image-shrink_600_2000/0/1695647888581?e=2147483647&v=beta&t=D3qTgeQBWVvmGog16cDBB_6Nk0qtfYv9Y1crvF7-pE0" alt="adf" width="40" height="40"/>
-        <br>Azure Data Factory
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Azure_Synapse_Analytics_Logo.svg" alt="synapse" width="40" height="40"/>
-        <br>Azure Synapse
-      </a>
-    </td>
-    <td colspan="3"></td> <!-- Empty cells to maintain alignment -->
   </tr>
 </table>
 
