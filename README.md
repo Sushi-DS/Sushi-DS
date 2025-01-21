@@ -57,8 +57,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/logo.svg" alt="flask" width="40" height="40"/> 
+        <br>Flask
       </a>
     </td>
     <td align="center">
@@ -154,21 +155,22 @@
         <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="powerbi" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
+       <td align="center">
       <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Databricks_Logo.png/320px-Databricks_Logo.png" alt="databricks" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Databricks_Logo.png" alt="databricks" width="40" height="40"/>
+        <br>Databricks
       </a>
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/354149/azure-data-factory.svg" alt="adf" width="40" height="40"/>
+        <br>Azure Data Factory
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/azure/synapse-analytics/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Azure_Synapse_Analytics_Logo.svg/512px-Azure_Synapse_Analytics_Logo.svg.png" alt="synapse" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Azure_Synapse_Analytics_Logo.svg" alt="synapse" width="40" height="40"/>
+        <br>Azure Synapse
       </a>
     </td>
     <td colspan="3"></td> <!-- Empty cells to maintain alignment -->
