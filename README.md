@@ -56,11 +56,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/pallets/flask/main/docs/logo.svg" alt="flask" width="40" height="40"/> 
-        <br>Flask
-      </a>
     </td>
     <td align="center">
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
@@ -163,7 +158,7 @@
     </td>
     <td align="center">
       <a href="https://learn.microsoft.com/en-us/azure/data-factory/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/354149/azure-data-factory.svg" alt="adf" width="40" height="40"/>
+        <img src="https://media.licdn.com/dms/image/D4D12AQF_GbYxLSXBKQ/article-cover_image-shrink_600_2000/0/1695647888581?e=2147483647&v=beta&t=D3qTgeQBWVvmGog16cDBB_6Nk0qtfYv9Y1crvF7-pE0" alt="adf" width="40" height="40"/>
         <br>Azure Data Factory
       </a>
     </td>
